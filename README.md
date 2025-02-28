@@ -1,2 +1,3 @@
-# liongate
-agentic intelligence OS
+# lion
+
+An Agentic Intelligence Operating System
